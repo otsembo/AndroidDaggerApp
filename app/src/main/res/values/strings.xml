@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DaggerWithKotlin</string>
+    <string name="ellipsis">…</string>
+    <string name="connect">connect</string>
+    <string name="input">input</string>
+    <string name="decorate">decorate</string>
+</resources>
